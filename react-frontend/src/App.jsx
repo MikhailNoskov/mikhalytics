@@ -90,7 +90,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Go Developer Test Project</h1>
+        <h1>Go Test Project</h1>
         <p>React Frontend → Node.js Backend → Go Backend</p>
       </header>
 
